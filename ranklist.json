@@ -1,0 +1,27 @@
+[
+    {
+      "nombre": "Principiante",
+      "descripcion": "Has iniciado un camino por el mundo de r4id.",
+      "raids": 5
+    },
+    {
+      "nombre": "Intermedio",
+      "descripcion": "Ya tienes experiencia.",
+        "raids": 10
+    },
+    {
+      "nombre": "Experto",
+      "descripcion": "Eres una maquina de r4idear",
+      "raids": 15
+    },
+    {
+        "nombre": "Superior",
+        "descripcion": "Pocos llegan hasta aqui.",
+        "raids": 20
+    },
+    {
+        "nombre": "No Mercy",
+        "descripcion": "Haz alcanzado el rango maximo.",
+        "raids": 35
+    }
+  ]
